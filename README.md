@@ -74,10 +74,10 @@ npm run preview
 
 ## Deployment
 
-The portfolio can be deployed with [Vercel](https://vercel.com/) by
+The portfolio can be deployed with [Vercel](https://myportfolio-liard-alpha-60.vercel.app/) by
 importing the GitHub repository. For a Vite project, the build command
 is typically `npm run build` and the output directory is `dist`.
-
+Live link - [](https://myportfolio-liard-alpha-60.vercel.app/)
 ## Contact
 
 -   **Email:** shahanabeevi12@gmail.com
